@@ -1,16 +1,35 @@
-# fluttercrudhttp2
+# 📱 Flutter CRUD HTTP App
 
-A new Flutter project.
+[![Flutter](https://img.shields.io/badge/Flutter-blue.svg)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-blue.svg)](https://dart.dev)
 
-## Getting Started
+Um aplicativo Flutter completo desenvolvido como projeto de curso técnico, implementando operações CRUD com integração à API REST externa.
 
-This project is a starting point for a Flutter application.
+## ✨ Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- 🎯 **CRUD Completo** - Create, Read, Update, Delete de usuários
+- 🌐 **Integração API REST** - Conexão com CrudCrud.com
+- 🎨 **Interface Moderna** - Material Design 3
+- ✅ **Validações Avançadas** - Formulários robustos
+- 🚨 **Tratamento de Erros** - Feedback visual completo
+- 📱 **Responsivo** - Adaptável a diferentes telas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tecnologias
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** - Framework UI
+- **Dart** - Linguagem de programação
+- **HTTP** - Cliente para APIs REST
+- **CrudCrud.com** - API externa para persistência
+- **Material Design 3** - Design system
+
+## 🚀 Como Executar
+
+```bash
+# Clone o repositório
+git clone https://github.com/BeSinhorelli/Flutter_CrudHTTP.git
+
+# Instale as dependências
+flutter pub get
+
+# Execute o aplicativo
+flutter run
