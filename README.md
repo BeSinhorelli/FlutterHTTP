@@ -22,7 +22,7 @@ Um aplicativo Flutter completo desenvolvido como projeto de curso técnico, impl
 
 ## 🛠️ Tecnologias
 
-- **Flutter** - Framework UI
+- **Flutter** - Framework
 - **Dart** - Linguagem de programação
 - **HTTP** - Cliente para APIs REST
 - **CrudCrud.com** - API externa para persistência
