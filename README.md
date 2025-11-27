@@ -14,6 +14,12 @@ Um aplicativo Flutter completo desenvolvido como projeto de curso técnico, impl
 - 🚨 **Tratamento de Erros** - Feedback visual completo
 - 📱 **Responsivo** - Adaptável a diferentes telas
 
+
+## 📸 Captura de Tela
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/dd4f37e5-a432-4211-b0fb-c32936a688ef" />
+
+
 ## 🛠️ Tecnologias
 
 - **Flutter** - Framework UI
